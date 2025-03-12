@@ -39,7 +39,9 @@
     to {
       transform: translateX(-132px);
     }
-  }.banner {
+  }
+  
+  .banner {
     width: 100%;
     padding-block: 2.5rem;
     overflow: hidden;
